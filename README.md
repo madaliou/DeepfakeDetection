@@ -1,11 +1,5 @@
 # Deepfake detection using Deep Learning (ResNext and LSTM)
 
-## Give a Star⭐ to repo and <a href="https://www.buymeacoffee.com/abhijitjadhav" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> <a href="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning" target="_blank"><img src="https://img.shields.io/badge/UPI-abhijit.jadhav1%40ybl-brightgreen" alt="Medium" style="height: 35px !important;width: 250px !important;"/></a>&nbsp;
-
-</a>
-
-## Latest Update
-#### We have dockerised the [Django Application](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/tree/master/Django%20Application) now you can spin up a container within seconds without worring about dependencies
 
 
 ## 1. Introduction
@@ -13,8 +7,6 @@ This projects aims in detection of video deepfakes using deep learning technique
 
 You can also watch [this Youtube video](https://www.youtube.com/watch?v=_q16aJTXVRE) to get a better intuition about the project.
 You can watch [this playList](https://www.youtube.com/watch?v=quJ8Rv84oA0&list=PLNIj0dkfMA1FsD5xR4IEc8vdwr66_WExl) for step by step installation.
-
-You can read more about the project on <a href="https://abhijithjadhav.medium.com/deepfake-video-detection-using-long-short-term-memory-df3674f83ecc" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
 
 
 ## 2. Directory Structure
@@ -39,7 +31,6 @@ Deepfake_detection_using_deep_learning
 </p>
 
 ## 4. Demo 
-### You can watch the [youtube video](https://www.youtube.com/watch?v=_q16aJTXVRE&t=823s) for demo
 
 <p align="center">
   <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/fakegif.gif" />
