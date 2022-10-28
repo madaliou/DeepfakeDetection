@@ -5,8 +5,7 @@
 ## 1. Introduction
 This projects aims in detection of video deepfakes using deep learning techniques like ResNext and LSTM. We have achived deepfake detection by using transfer learning where the pretrained ResNext CNN is used to obtain a feature vector, further the LSTM layer is trained using the features. For more details follow the [documentaion](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/tree/master/Documentation).
 
-You can also watch [this Youtube video](https://www.youtube.com/watch?v=_q16aJTXVRE) to get a better intuition about the project.
-You can watch [this playList](https://www.youtube.com/watch?v=quJ8Rv84oA0&list=PLNIj0dkfMA1FsD5xR4IEc8vdwr66_WExl) for step by step installation.
+
 
 
 ## 2. Directory Structure
@@ -27,13 +26,13 @@ Deepfake_detection_using_deep_learning
    
 ## 3. System Architecture
 <p align="center">
-  <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/System%20Architecture.png" />
+  <img src="https://github.com/madaliou/DeepfakeDetection/tree/main/github_assets/System%20Architecture.png" />
 </p>
 
 ## 4. Demo 
 
 <p align="center">
-  <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/fakegif.gif" />
+  <img src="https://github.com/madaliou/DeepfakeDetection/tree/main/github_assets/fakegif.gif" />
 </p>
 
 ## 5. Our Results
